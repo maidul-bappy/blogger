@@ -4,8 +4,8 @@ import Home from "./components/Home/Home";
 function App() {
   return (
     <div>
-      <Header/>
-     <Home></Home>
+     <Header/>
+     <Home/>
     </div>
   );
 }
